@@ -1,3 +1,5 @@
 # Podsetlab
 
-PodsetLab — a software studio building and maintaining digital tools.
+
+Build. Own. Maintain.
+Software and infrastructure.
